@@ -102,5 +102,5 @@ ALLCOMP_attributes::
       coldair_outbreak_mod = .false.
       flds_wiso = .false.
       flux_convergence = 0.0
-      flux_max_iteration = 1
+      flux_max_iteration = 2
 ::
